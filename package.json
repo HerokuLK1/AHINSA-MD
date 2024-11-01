@@ -1,13 +1,13 @@
 {
-  "name": "Ahinsa-MD",
+  "name": "AHINSA-MD",
   "version": "10.8.1",
-  "description": "Ahinsa-MD latest multi device whatsapp bot",
+  "description": "AHINSA-MD latest multi device whatsapp bot",
   "main": "body.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start body.js --deep-monitoring --attach --name Ahinsa-MD",
-    "stop": "pm2 stop Ahinsa-MD",
-    "restart": "pm2 restart Ahinsa-MD"
+    "start": "pm2 start body.js --deep-monitoring --attach --name AHINSA-MD",
+    "stop": "pm2 stop AHINSA-MD",
+    "restart": "pm2 restart AHINSA-MD"
   },
   "keywords": ["bmw-md", "whatsapp-bot", "whatsapp md bot"],
   "author": "DILISHA GIMSHAN",
