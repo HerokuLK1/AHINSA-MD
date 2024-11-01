@@ -1,10 +1,10 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
-contact            : ibraahadams@gmail.com
+Author             : Sir Dilisha Gimshan
+contact            : dilidilishagimshan6@gmail.com
 Github             : https://github.com/devibraah
-my youtube channel : Youtube.com/@ibrahimaitech
+my youtube channel : https://www.youtube.com/@srilanka-no1AWM-FF
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
